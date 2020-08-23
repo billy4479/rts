@@ -2,7 +2,7 @@
 
 ## Composizione esercito
 
-Una volta scelte la fazione, dovrai comporre il tuo esercito. A seconda della [modalità di gioco](#modalità-di-gioco) che avrai già scelto avrai a disposizione un certo numero di slot che potrai riempire con le truppe, veicoli e ediici che porterai in battaglia; non li potrai più modificare una volta iniziato il gioco. Quando aggiungi un Risorseo, ti varrà chiesto che [miglioramenti](#miglioramenti) usare. Potrai usare più slot per lo stesso equipagiamento in modo da poter usare diversi miglioramenti. 
+Una volta scelte la fazione, dovrai comporre il tuo esercito. A seconda della [modalità di gioco](#modalità-di-gioco) che avrai già scelto avrai a disposizione un certo numero di slot che potrai riempire con le truppe, veicoli e ediici che porterai in battaglia; non li potrai più modificare una volta iniziato il gioco. Quando aggiungi un risorse, ti varrà chiesto che [miglioramenti](#miglioramenti) usare. Potrai usare più slot per lo stesso equipagiamento in modo da poter usare diversi miglioramenti. 
 
 ## Modalità di Gioco
 
